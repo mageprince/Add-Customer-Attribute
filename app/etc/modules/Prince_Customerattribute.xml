@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Prince_Customerattribute>
+            <active>true</active>
+            <codePool>local</codePool>
+        </Prince_Customerattribute>
+    </modules>
+</config> 
